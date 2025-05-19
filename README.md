@@ -1,4 +1,14 @@
+# 🩸 Blood Donation App
 
+A simple and user-friendly Android app built with Java and SQLite to help users search for blood donors based on blood group and location.
+
+## 🚀 Features
+
+- 🔍 Search for donors by blood group and city
+- 📋 Display matching donors in a colorful RecyclerView
+- 🧩 Built using Android SDK, SQLite, and RecyclerView
+- ✅ Simple UI with EditTexts and a Search Button
+- 🎨 Random background and text colors for visual appeal
 ## 🧪 How to Run
 
 1. Clone the repository
